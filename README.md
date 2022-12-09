@@ -11,7 +11,7 @@
 2. Open!
 ## Install linux:
 1. Download exe.
-2. Download Wine
+2. Download Wine.
 3. Wine start 'parser.exe'
 4. Open!
 
