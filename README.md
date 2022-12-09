@@ -7,11 +7,11 @@
 3. Downloads photos: **to the root folder.**
 4. Output Format: **COUNT URL STATUS DOWNLOAD **
 ## Install win:
-1. Download.
+1. Download parser.
 2. Open!
 ## Install linux:
-1. Download
+1. Download parser.
 2. Download Wine
-3. wine start 'parser.exe'
+3. Wine start 'parser.exe'
 4. Open!
 
