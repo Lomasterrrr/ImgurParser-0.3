@@ -1,5 +1,5 @@
 # ImgurParser-0.2
-####ImgurParser 0.2 - Update c#! + Speed up!
+#### ImgurParser 0.2 - Update c#! + Speed up!
 
 ![alt text](https://i.imgur.com/N4wUNp3.png)
 1. Available formats: **jpg, png, gif.**
