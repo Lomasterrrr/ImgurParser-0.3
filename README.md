@@ -1,7 +1,7 @@
 # ImgurParser-0.3
 #### ImgurParser 0.3 - Update!
 
-![alt text](https://i.imgur.com/EE5VGlw.gif)
+![alt text](https://i.imgur.com/njm35Zd.png)
 1. Available formats: **jpg, png, gif.**
 2. Speed: **1m/517 photo**.
 3. Downloads photos: **to the root folder.**
