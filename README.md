@@ -1,7 +1,7 @@
 # ImgurParser-0.2
 #### ImgurParser 0.2 - Update c#! + Speed up!
 
-![alt text](https://i.imgur.com/dOBjokJ.png)
+![alt text](https://i.imgur.com/EE5VGlw.gif)
 1. Available formats: **jpg, png, gif.**
 2. Speed: **1m/517 photo**.
 3. Downloads photos: **to the root folder.**
