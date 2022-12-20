@@ -1,6 +1,6 @@
 # ImgurParser-0.3
-#### ImgurParser 0.3 - The project has moved to OOP! + Update!
-### Add timer + Custom format + Add text in help menu + Speed up mode!
+#### ImgurParser 0.3 - Update!
+#### Add timer + Custom format + Add text in help menu + Speed up mode!
 
 ![alt text](https://i.imgur.com/EE5VGlw.gif)
 1. Available formats: **jpg, png, gif.**
