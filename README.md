@@ -15,6 +15,6 @@
 3. Wine start 'ImgurParser 0.3.exe'
 4. Open!
 
-#### Update!
-##### Add timer + Custom format + Add text in help menu + Speed up mode!
+## Update!
+### Add timer + Custom format + Add text in help menu + Speed up mode!
 
