@@ -16,5 +16,5 @@
 4. Open!
 
 ## Update!
-#### Add timer + Custom format + Add text in help menu + Only num mode!
+1. Add timer + Custom format + Add text in help menu + Only num mode!
 
