@@ -9,6 +9,7 @@ namespace parser
     {
         public int length = 5;
         public int i = 0;
+        
         public static string GenerateStr(int length)
         {
             const string chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
