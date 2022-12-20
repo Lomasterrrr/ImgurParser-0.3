@@ -1,6 +1,5 @@
 # ImgurParser-0.3
 #### ImgurParser 0.3 - Update!
-##### Add timer + Custom format + Add text in help menu + Speed up mode!
 
 ![alt text](https://i.imgur.com/EE5VGlw.gif)
 1. Available formats: **jpg, png, gif.**
@@ -15,4 +14,7 @@
 2. Download Wine.
 3. Wine start 'ImgurParser 0.3.exe'
 4. Open!
+
+#### Update!
+##### Add timer + Custom format + Add text in help menu + Speed up mode!
 
