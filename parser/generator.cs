@@ -24,6 +24,7 @@ namespace parser
             }
             return sb.ToString();
         }
+        
         public static string GenerateStrSpeed(int length)
         {
             const string chars = "0123456789";
@@ -53,6 +54,7 @@ namespace parser
             return result;
             
         }
+        
         public string GenerateLinkSpeed(string format)
         {
             Stopwatch stopwatch = new Stopwatch();
